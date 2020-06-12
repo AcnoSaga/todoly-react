@@ -15,6 +15,9 @@ export const TodoItemBox = styled.div`
 
 	@media screen and (max-width: 800px) {
 		padding: 2vh 6vw;
+		& > div {
+			opacity: 100%;
+		}
 	}
 
 	&:hover {
@@ -35,4 +38,5 @@ export const DeleteTodoButtonBox = styled.div`
 
 export const DeleteTodoButton = styled.div`
 	cursor: pointer;
+	font-size: 2em;
 `;
