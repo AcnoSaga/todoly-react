@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95cdfbffda1839382f1d19dbf89e6755",
+    "revision": "d54636ae81aa26a87b2284bf4010857f",
     "url": "/todoly-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todoly-react/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "2d4acf4c80d9ded414a7",
+    "revision": "0550a7892c8b127cf0b4",
     "url": "/todoly-react/static/css/main.00d35f22.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todoly-react/static/js/2.8761279e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d4acf4c80d9ded414a7",
-    "url": "/todoly-react/static/js/main.0a0c5e4d.chunk.js"
+    "revision": "0550a7892c8b127cf0b4",
+    "url": "/todoly-react/static/js/main.c5c76e44.chunk.js"
   },
   {
     "revision": "8eb39d54d0fb20d70881",
