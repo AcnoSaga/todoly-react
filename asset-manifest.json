@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/todoly-react/static/css/main.00d35f22.chunk.css",
+    "main.js": "/todoly-react/static/js/main.0a0c5e4d.chunk.js",
+    "main.js.map": "/todoly-react/static/js/main.0a0c5e4d.chunk.js.map",
+    "runtime-main.js": "/todoly-react/static/js/runtime-main.14fdf79d.js",
+    "runtime-main.js.map": "/todoly-react/static/js/runtime-main.14fdf79d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/todoly-react/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8761279e.chunk.js": "/todoly-react/static/js/2.8761279e.chunk.js",
+    "static/js/2.8761279e.chunk.js.map": "/todoly-react/static/js/2.8761279e.chunk.js.map",
+    "index.html": "/todoly-react/index.html",
+    "precache-manifest.35ec87f3a1e0a17ab76599b25318bb7c.js": "/todoly-react/precache-manifest.35ec87f3a1e0a17ab76599b25318bb7c.js",
+    "service-worker.js": "/todoly-react/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/todoly-react/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.00d35f22.chunk.css.map": "/todoly-react/static/css/main.00d35f22.chunk.css.map",
+    "static/js/2.8761279e.chunk.js.LICENSE.txt": "/todoly-react/static/js/2.8761279e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14fdf79d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8761279e.chunk.js",
+    "static/css/main.00d35f22.chunk.css",
+    "static/js/main.0a0c5e4d.chunk.js"
+  ]
+}
